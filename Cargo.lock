@@ -214,9 +214,9 @@ dependencies = [
 
 [[package]]
 name = "ecow"
-version = "0.1.1"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c5c5051925c54d9a42c8652313b5358a7432eed209466b443ed5220431243a14"
+checksum = "54bfbb1708988623190a6c4dbedaeaf0f53c20c6395abd6a01feb327b3146f4b"
 
 [[package]]
 name = "either"
